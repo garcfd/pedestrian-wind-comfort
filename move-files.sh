@@ -1,0 +1,10 @@
+mv test_0.csv test_00.csv
+mv test_1.csv test_01.csv
+mv test_2.csv test_02.csv
+mv test_3.csv test_03.csv
+mv test_4.csv test_04.csv
+mv test_5.csv test_05.csv
+mv test_6.csv test_06.csv
+mv test_7.csv test_07.csv
+mv test_8.csv test_08.csv
+mv test_9.csv test_09.csv
